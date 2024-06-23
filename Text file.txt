@@ -1,2 +1,2 @@
 This file was created in remote repo
-to get it, use git pull origin
+to get it, use: git pull origin
